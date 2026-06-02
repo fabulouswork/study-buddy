@@ -7,8 +7,8 @@ last_studied: 2026-06-02
 subtopics:
   - vectors: mastered
   - vector spaces: mastered
-  - linear transformations: in-progress
-  - matrices: not-started
+  - linear transformations: mastered
+  - matrices: in-progress
   - determinants: not-started
   - eigenvalues and eigenvectors: not-started
   - inner product spaces: not-started
