@@ -3,11 +3,11 @@ topic: Linear Algebra
 status: in-progress
 quiz_score: null
 self_reported_ready: false
-last_studied: 2026-06-01
+last_studied: 2026-06-02
 subtopics:
   - vectors: mastered
-  - vector spaces: in-progress
-  - linear transformations: not-started
+  - vector spaces: mastered
+  - linear transformations: in-progress
   - matrices: not-started
   - determinants: not-started
   - eigenvalues and eigenvectors: not-started
