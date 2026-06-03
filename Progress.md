@@ -13,4 +13,4 @@
 
 ## Current Topic
 
-**Linear Algebra** — in progress (Matrices mastered; quiz on all topics pending).
+**Linear Algebra** — in progress (Quiz: 100% on first 4 topics. Now learning Eigenvalues & Eigenvectors).

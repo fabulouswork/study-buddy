@@ -1,7 +1,7 @@
 ---
 topic: Linear Algebra
 status: in-progress
-quiz_score: null
+quiz_score: 100
 self_reported_ready: false
 last_studied: 2026-06-03
 subtopics:
@@ -9,7 +9,7 @@ subtopics:
   - vector spaces: mastered
   - linear transformations: mastered
   - matrices: mastered
-  - determinants: not-started
+  - determinants: mastered
   - eigenvalues and eigenvectors: not-started
   - inner product spaces: not-started
   - tensor products: not-started
