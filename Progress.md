@@ -13,4 +13,4 @@
 
 ## Current Topic
 
-**Linear Algebra** — in progress (Quiz: 100% on first 4 topics. Now learning Eigenvalues & Eigenvectors).
+**Linear Algebra** — in progress (Mastered: Vectors, Spaces, Transformations, Matrices, Determinants, Eigenvalues/Eigenvectors. Next: Inner Products & Tensor Products).

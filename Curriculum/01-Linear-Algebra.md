@@ -10,7 +10,7 @@ subtopics:
   - linear transformations: mastered
   - matrices: mastered
   - determinants: mastered
-  - eigenvalues and eigenvectors: not-started
+  - eigenvalues and eigenvectors: mastered
   - inner product spaces: not-started
   - tensor products: not-started
 ---
