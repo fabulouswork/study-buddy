@@ -1,8 +1,9 @@
 ---
 topic: Linear Algebra
-status: in-progress
+status: completed
 quiz_score: 100
-self_reported_ready: false
+self_reported_ready: true
+completed: 2026-06-06
 last_studied: 2026-06-06
 subtopics:
   - vectors: mastered
