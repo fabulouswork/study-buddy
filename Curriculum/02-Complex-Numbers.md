@@ -1,15 +1,15 @@
 ---
 topic: Complex Numbers
-status: not-started
-quiz_score: null
-self_reported_ready: false
-last_studied: null
+status: in-progress
+quiz_score: 100
+self_reported_ready: true
+last_studied: 2026-06-07
 subtopics:
-  - definition and arithmetic: not-started
-  - geometric interpretation: not-started
-  - polar form and Euler's formula: not-started
-  - complex conjugates and modulus: not-started
-  - complex functions: not-started
+  - definition and arithmetic: completed
+  - geometric interpretation: completed
+  - polar form and Euler's formula: completed
+  - complex conjugates and modulus: completed
+  - complex functions: completed
 ---
 
 # Complex Numbers

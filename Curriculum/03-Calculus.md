@@ -3,9 +3,9 @@ topic: Calculus
 status: not-started
 quiz_score: null
 self_reported_ready: false
-last_studied: null
+last_studied: 2026-06-08
 subtopics:
-  - limits and continuity: not-started
+  - limits and continuity: completed
   - differentiation: not-started
   - integration: not-started
   - differential equations: not-started
