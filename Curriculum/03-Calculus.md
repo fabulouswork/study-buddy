@@ -1,13 +1,13 @@
 ---
 topic: Calculus
-status: not-started
+status: in-progress
 quiz_score: null
 self_reported_ready: false
-last_studied: 2026-06-13
+last_studied: 2026-06-16
 subtopics:
   - limits and continuity: completed
   - differentiation: completed
-  - integration: in-progress (basic integration and substitution done, remaining: by parts)
+  - integration: in-progress (basic integration and substitution done, remaining: by parts + mixed review)
   - differential equations: not-started
   - multivariable calculus: not-started
   - complex calculus basics: not-started
