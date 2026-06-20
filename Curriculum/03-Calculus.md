@@ -7,7 +7,7 @@ last_studied: 2026-06-13
 subtopics:
   - limits and continuity: completed
   - differentiation: completed
-  - integration: in-progress (basic integration and substitution done, remaining: by parts)
+  - integration: completed
   - differential equations: not-started
   - multivariable calculus: not-started
   - complex calculus basics: not-started

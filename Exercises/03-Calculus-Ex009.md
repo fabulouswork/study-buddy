@@ -3,8 +3,10 @@ topic: Calculus
 subtopic: integration
 technique: integration by parts
 generated: 2026-06-13
-status: unsolved
-attempts: 0
+status: completed
+attempts: 1
+last_attempt: 2026-06-16
+notes: Solved Problem 1 (∫ x e^x dx) with derivation, reviewed product rule from first principles, derived integration by parts formula
 ---
 
 # Exercise 009: Integration by Parts — The Product Rule in Reverse

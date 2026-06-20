@@ -3,8 +3,9 @@ topic: Calculus
 type: review-quiz
 subtopics: limits, differentiation, integration (basics, substitution, by-parts)
 generated: 2026-06-14
-status: unanswered
-score: null
+status: completed
+score: 7/7 + bonus
+completed: 2026-06-16
 ---
 
 # Calculus Review Quiz: Limits → Integration by Parts
