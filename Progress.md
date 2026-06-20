@@ -13,4 +13,4 @@
 
 ## Current Topic
 
-**Calculus** — in progress (currently: integration techniques, focusing on substitution).
+**Calculus** — in progress (next: integration by parts, then mixed review quiz).

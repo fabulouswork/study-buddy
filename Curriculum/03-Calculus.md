@@ -1,9 +1,9 @@
 ---
 topic: Calculus
-status: not-started
+status: in-progress
 quiz_score: null
 self_reported_ready: false
-last_studied: 2026-06-13
+last_studied: 2026-06-16
 subtopics:
   - limits and continuity: completed
   - differentiation: completed
